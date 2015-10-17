@@ -1,0 +1,11 @@
+c:\users\baby_phoenix\documents\visual studio 2012\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+c:\users\baby_phoenix\documents\visual studio 2012\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.QLBH.resources
+c:\users\baby_phoenix\documents\visual studio 2012\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Resources.resources
+c:\users\baby_phoenix\documents\visual studio 2012\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.vbproj.GenerateResource.Cache
+c:\users\baby_phoenix\documents\visual studio 2012\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+c:\users\baby_phoenix\documents\visual studio 2012\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+c:\users\baby_phoenix\documents\visual studio 2012\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.xml
+c:\users\baby_phoenix\documents\visual studio 2012\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+c:\users\baby_phoenix\documents\visual studio 2012\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.xml
+c:\users\baby_phoenix\documents\visual studio 2012\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\Baby_Phoenix\Documents\Visual Studio 2012\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.SanPham.resources
